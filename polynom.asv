@@ -1,0 +1,7 @@
+%polynom
+
+clear
+
+function y=polynom(x,a)
+    
+end
